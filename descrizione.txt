@@ -1,0 +1,20 @@
+Requisiti:
+registrare i lotti in entrata
+controllare le scadenze dei lotti e in caso siano scaduti mandare un alert
+registrare i clienti con le loro ricette mediche
+fare controlli dei prodotti che possono acquistare i clienti
+registrare entrate uscite, utile e prodotti migliori
+fare un report sulle vendite
+registrare commessi e turni
+gestire i turni 
+
+Requisiti non funzionali:
+database Postgres
+backend Python
+frontend html
+
+Attori 
+direttore
+dipendenti
+clienti
+fornitore
